@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Como pedir cerveja</string>
+    <string name="action_about">Sobre</string>
+
+    <string name="brasil">Brasil</string>
+    <string name="alemanha">Alemanha</string>
+    <string name="dinamarca">Dinamarca</string>
+    <string name="usa">Estados Unidos</string>
+    <string name="italia">Itália</string>
+    <string name="brasil_msg">Uma cerveja, por favor!</string>
+    <string name="alemanha_msg">Ein Bier, bitte!</string>
+    <string name="italia_msg">Una birra, per favore!</string>
+    <string name="dinamarca_msg">Yay vil geh-neh heh en url!</string>
+    <string name="usa_msg">A beer, please!</string>
+
+    <string name="about_app">Aqui você irá aprender como se pedir uma cerveja em alguns países. Já que muitas vezes viajamos e não sabemos como pedir uma de nossas bebidas favoritas para degustar!</string>
+
+    <string name="btn_text">Mostrar pedido</string>
+
+
+</resources>
