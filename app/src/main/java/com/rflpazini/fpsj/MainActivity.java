@@ -46,8 +46,6 @@ public class MainActivity extends AppCompatActivity {
 
         mViewPager = (ViewPager) findViewById(R.id.container);
         mViewPager.setAdapter(mSectionsPagerAdapter);
-
-
     }
 
 
@@ -62,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         if (id == R.id.action_settings) {
-            startAlert(getApplicationContext(), getString(R.string.about_app), getString(R.string.action_about));
+            startAlert(this, getString(R.string.about_app), getString(R.string.action_about));
             return true;
         }
 

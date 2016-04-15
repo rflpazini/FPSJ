@@ -13,6 +13,8 @@
     <string name="dinamarca_msg">Yay vil geh-neh heh en url!</string>
     <string name="usa_msg">A beer, please!</string>
 
+    <string name="image_desc">Bandeira do país</string>
+
     <string name="about_app">Aqui você irá aprender como se pedir uma cerveja em alguns países. Já que muitas vezes viajamos e não sabemos como pedir uma de nossas bebidas favoritas para degustar!</string>
 
     <string name="btn_text">Mostrar pedido</string>
