@@ -162,7 +162,7 @@ public class MainActivity extends AppCompatActivity {
         public CharSequence getPageTitle(int position) {
             switch (position) {
                 case 0:
-                    return "BRASIL";
+                    return "BRAZIL";
                 case 1:
                     return "ALEMANHA";
                 case 2:
